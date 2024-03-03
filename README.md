@@ -19,7 +19,7 @@ Welcome to the visual art portfolio section of my repository! Here, you'll find 
 - **Description:** Sunlight bathes my charcoal-stained fingertips as I study the Bugatti Chiron sketched on paper. Each stroke echoes the raw power and elegance of the car, a testament to years of dedication. This sketch isn't just about the car; it's a tribute to my grandfather, who fueled my passion for speed. With each line, I feel his presence guiding me forward on this endless highway of dreams.
 - **Medium:** I meticulously shaded the Bugatti Chiron sketch using a variety of light pencils, each with different levels of color intensity and thickness. By carefully selecting and blending these pencils, I aimed to capture the intricate details and dynamic contrasts that define the car's sleek design.
 - **Highlights:** Key features or techniques used in the artwork.
-- ![Bugatti Chiron](image_url)
+- [Bugatti Chiron](https://github.com/tech-moh-logy/Visual-Arts/tree/main/Bugatti)
 
 ## Skills
 - **Artistic Skills:** Painting, Drawing, Illustration, Photography, Sculpture, etc.
