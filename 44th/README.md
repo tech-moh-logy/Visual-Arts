@@ -1,4 +1,4 @@
-## 44th President 
+## 44th President (1st place out of 155 students.)
 
 ![44th President](https://github.com/tech-moh-logy/Visual-Arts/assets/132733865/0acd14a2-fdcf-4636-a28b-bcb9048fec11)
 
