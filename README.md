@@ -13,7 +13,7 @@ Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This 
       <td width="50%">
         <p>🖌️ <strong>Medium:</strong> Abstract Pattern Technique</p>
         <p>📌 <strong>Highlights:</strong> Precision markings using rulers for proportional accuracy</p>
-        <p>I stumbled upon a portrait of the *44th President* while walking and was inspired to sketch it, not as a political statement but as an artistic study of a well-known public figure. I employed a unique shading technique using patterns to create depth and contrast.</p>
+        <p>I stumbled upon a portrait of the <b>44th President</b> while walking and was inspired to sketch it, not as a political statement but as an artistic study of a well-known public figure. I employed a unique shading technique using patterns to create depth and contrast.</p>
         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/44th">View Artwork</a></p>
       </td>
       <td width="50%" align="center">
@@ -32,7 +32,7 @@ Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This 
       <td width="50%">
         <p>🖌️ <strong>Medium:</strong> Graphite & Charcoal</p>
         <p>📌 <strong>Highlights:</strong> Dynamic shading with varying pencil weights</p>
-        <p>Sunlight bathed my charcoal-stained fingertips as I refined the details of this *Bugatti Chiron* sketch—a tribute to both speed and family legacy. I meticulously blended different shades to capture the car's elegance and intensity.</p>
+        <p>Sunlight bathed my charcoal-stained fingertips as I refined the details of this <b>Bugatti Chiron</b> sketch—a tribute to both speed and family legacy. I meticulously blended different shades to capture the car's elegance and intensity.</p>
         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/Bugatti">View Artwork</a></p>
       </td>
       <td width="50%" align="center">
