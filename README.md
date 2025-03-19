@@ -5,7 +5,26 @@ Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This 
 
 ![image](https://github.com/user-attachments/assets/07430be0-2561-4d38-95ef-953b048f6a25)
 
-## 🎭 Designs
+### 🏆 iMohammed | *Product Design for My 2025 Website*  
+
+<div align="center">  
+  <table>  
+    <tr>  
+      <td width="50%">  
+        <p>🎨 <strong>Discipline:</strong> Product Design, Typography, & Branding</p>  
+        <p>📌 <strong>Design Approach:</strong> Multilingual UI aesthetics, typographic hierarchy, and visual contrast</p>  
+        <p>This identity system is more than just a logo—it's a **functional design asset** for my 2025 website.  
+        Built on **strong geometric foundations**, it balances **Hindi and English** in a way that feels both seamless and intentional.  
+        The monochrome palette reinforces **accessibility and high-contrast UI principles**, ensuring clarity across digital interfaces.  
+        Every character, weight, and alignment was meticulously refined for a **modern, culturally immersive user experience**.</p>  
+        <p>🔗 <a href="GITHUB-REPO-LINK">Explore the Full Project</a></p>  
+      </td>  
+      <td width="50%" align="center">  
+        <img src="https://github.com/user-attachments/assets/2e3148b0-67e5-4bef-ac76-caf00cc762af" alt="Bilingual Typography - 2025 Website" width="250" style="border-radius: 15px;">  
+      </td>  
+    </tr>  
+  </table>  
+</div>  
 
 ---
 
