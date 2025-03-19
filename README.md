@@ -9,7 +9,7 @@ Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This 
 
 ---
 
-### 🏆 CORE | *Con Edison*  
+### 🏆 CORE | *Con Edison - Product Design*  
 <div align="center"> 
   <table> 
     <tr> 
@@ -17,9 +17,10 @@ Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This 
         <p>🎨 <strong>Medium:</strong> Digital Design & Branding</p> 
         <p>📌 <strong>Highlights:</strong> Futuristic UI aesthetics, geometric precision, and branding integration</p> 
         <p>New York City's skyline hums with energy, much like the inspiration behind <b>CORE</b>—a conceptual branding piece for Con Edison. The circular motif reflects the seamless flow of electricity, while the neon cyber-inspired accents capture the city’s never-ending pulse. Every element was meticulously arranged to blend <b>tradition with innovation</b>, symbolizing 200 years of progress.</p> 
+<!--         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/CORE">View Design</a></p>  -->
         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/CORE">View Design</a></p> 
       </td> 
-      <td width="50%" align="center"> <img src="https://github.com/tech-moh-logy/Visual-Arts/assets/your-image-link-here" alt="CORE - Con Edison" width="250"> 
+      <td width="50%" align="center"> <img src="https://github.com/user-attachments/assets/d4cb084d-97e8-4200-b82b-4d678725ad14" alt="CORE - Con Edison" width="250"> 
       </td> 
     </tr> 
   </table> 
