@@ -1,10 +1,31 @@
 # 🎨 Mohammed's Design Portfolio  
 
-Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This repository showcases my artistic journey, including detailed projects, unique styles, and the thought process behind each piece.  
+Welcome to my **Visual Arts Portfolio**, where creativity meets technique. This repository showcases my artistic journey, including detailed projects, unique styles, and the thought process behind each piece. 
+
+
+![image](https://github.com/user-attachments/assets/07430be0-2561-4d38-95ef-953b048f6a25)
+
+## 🎭 Designs
 
 ---
 
-## 🎭 Art Projects  
+### 🏆 CORE | *Con Edison*  
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td width="50%"> 
+        <p>🎨 <strong>Medium:</strong> Digital Design & Branding</p> 
+        <p>📌 <strong>Highlights:</strong> Futuristic UI aesthetics, geometric precision, and branding integration</p> 
+        <p>New York City's skyline hums with energy, much like the inspiration behind <b>CORE</b>—a conceptual branding piece for Con Edison. The circular motif reflects the seamless flow of electricity, while the neon cyber-inspired accents capture the city’s never-ending pulse. Every element was meticulously arranged to blend <b>tradition with innovation</b>, symbolizing 200 years of progress.</p> 
+        <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/CORE">View Design</a></p> 
+      </td> 
+      <td width="50%" align="center"> <img src="https://github.com/tech-moh-logy/Visual-Arts/assets/your-image-link-here" alt="CORE - Con Edison" width="250"> 
+      </td> 
+    </tr> 
+  </table> 
+</div>
+
+---
 
 ### 🏆 44th President | *1st Place out of 470+ Students*  
 <div align="center">
