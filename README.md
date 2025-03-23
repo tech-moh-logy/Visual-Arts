@@ -1,10 +1,18 @@
-# 🎨 Mohammed's Design Portfolio  
+<div align="center">
+  <h1>🎨 Mohammed's Designs & Visual Arts Portfolio</h1>
+</div>
+
+---
 
 Welcome to my **Design Portfolio**, where creativity meets technique. This repository showcases my artistic journey, including detailed projects, unique styles, and the thought process behind each piece. 
 
 > *Award-winning art and design (UI/UX and product design) projects, recognized for innovative techniques in creating depth, texture, and precision.* 
 
+---
+
 ![image](https://github.com/user-attachments/assets/07430be0-2561-4d38-95ef-953b048f6a25)
+
+---
 
 ### 🌐︎ iMohammed | *Product Design for My 2025 Website*  
 
