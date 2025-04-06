@@ -113,16 +113,59 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 </div>  
 
 ---
-## UI/UX or Product Design
+# UI/UX or Product Design
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE2bHBoZmhxeWRueWg5N3hsdjh0Z2Zma3o1cXJkMjhqdmIxMHplcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sFeri9abVFTLhNzn4D/giphy.gif" style="width: 100vw">
-[Live Demo of Kings of B-Town](https://tech-moh-logy.github.io/Kings-of-B-Town/)
+# 🎬 cineX – Experimental Cinema Platforms
 
-<br>
+A collection of digital experiments at the intersection of South Asian cinema and design innovation.
 
-<img src="https://media.giphy.com/media/sTdRdivmXb9El6uMzb/giphy.gif" style="width: 100vw">
-[Live Demo of Cinema Curry - Beta Version](https://cinema-curry-mohammed.netlify.app) (DM on LinkedIn or Email me for the official source code)
+---
+
+## 🍛 Cinema Curry (Beta Version → Now: cineX)
+
+[**Live Demo of Cinema Curry**](https://cinema-curry-mohammed.netlify.app)
+
+<img src="https://media.giphy.com/media/sTdRdivmXb9El6uMzb/giphy.gif" width="100%">
+
+**Cinema Curry** is an experimental platform exploring the fusion of South Asian film culture and digital design.  
+This beta version focuses on **visual identity**, **smooth transitions**, and a **mobile-first** interaction approach.  
+
+Now rebranded and developed into **cineX**, this project serves as a framework for creative learning, UX iteration, and full-stack development.  
+The upcoming version includes:
+- An integrated **AI chatbot** for immersive movie queries
+- Enhanced **search and filtering** for multilingual content
+- Streamlined **interface and responsive UX** for modern users
+
+> _Contact via LinkedIn or email to request source code access._
+
+---
+
+## 👑 Kings of B-Town
+
+[**Live Demo of Kings of B-Town**](https://tech-moh-logy.github.io/Kings-of-B-Town/)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE2bHBoZmhxeWRueWg5N3hsdjh0Z2Zma3o1cXJkMjhqdmIxMHplcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sFeri9abVFTLhNzn4D/giphy.gif" width="100%">
+
+**Kings of B-Town** is a creative tribute to Bollywood’s cinematic icons, exploring the intersection of  
+fan culture, minimalist UI, and interactive storytelling. Built as a lightweight visual experiment, it highlights:
+- Clean layouts
+- Animated character sequences
+- Responsive design principles  
+
+This project laid early foundations for the branding and tone that shaped cineX.
+
+---
+
+## 🧠 Concept & Future Vision
+
+Both **Cinema Curry** and **Kings of B-Town** contribute to the evolution of **cineX**, a new-age platform blending:
+- Cinematic discovery
+- Generative design
+- AI-driven user interaction  
+with a design system grounded in accessibility and multilingual inclusivity.
+
+Stay tuned.
 
 ---
 
