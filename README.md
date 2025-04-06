@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎨 Mohammed's Designs & Visual Arts Portfolio</h1>
+  <h1>Mohammed's Designs (UI/UX, Product Design & Graphic Design) & Visual Arts Portfolio</h1>
 </div>
 
 ---
@@ -14,7 +14,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### 🌐︎ iMohammed | *Product Design for My 2025 Website*  
+### 🌐︎ iMohammed | *Product Design & Graphic Design for My 2025 Website*  
 
 <div align="center">  
   <table>  
@@ -38,7 +38,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### ϟ CORE | *Con Edison - Product Design*  
+### ϟ CORE | *Con Edison - Product Design & Graphic Design*  
 <div align="center"> 
   <table> 
     <tr> 
@@ -57,21 +57,20 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### ϟ HRX | *Graphic Design*  
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td width="50%"> 
-        <p>🎨 <strong>Medium:</strong> Digital Design & Branding</p> 
-        <p>📌 <strong>Highlights:</strong> Futuristic UI aesthetics, geometric precision, and branding integration</p> 
-        <p>New York City's skyline hums with energy, much like the inspiration behind <b>CORE</b>—a conceptual branding piece for Con Edison. The circular motif reflects the seamless flow of electricity, while the neon cyber-inspired accents capture the city’s never-ending pulse. Every element was meticulously arranged to blend <b>tradition with innovation</b>, symbolizing 200 years of progress.</p> 
-<!--         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/CORE">View Design</a></p>  -->
-        <p>🔗 <img src="https://github.com/user-attachments/assets/da2e1c55-bab7-40ce-9ad8-8bd95028882f">View Design</a></p> 
-      </td> 
-      <td width="50%" align="center"> <img src="https://github.com/user-attachments/assets/d4cb084d-97e8-4200-b82b-4d678725ad14" alt="CORE - Con Edison" width="250"> 
-      </td> 
-    </tr> 
-  </table> 
+### ϟ HRX | *Graphic Design*
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+  <p>🎨 <strong>Medium:</strong> Digital Design & Branding</p>
+  <p>📌 <strong>Highlights:</strong> Sculpted visual elements, powerful typography mirroring his physique, and a high-energy aesthetic celebrating fitness and War 2.</p>
+  <p><b>HRX</b>, a graphic design exploration for Hrithik Roshan's activewear, draws direct inspiration from his iconic physique. His famously chiseled body and sculpted abs serve as a visual foundation, translated into strong, clean lines and impactful forms throughout the design. The muscular arms, a symbol of his dedication to fitness, are reflected in the powerful and dynamic typography. This branding concept pulses with the same high-octane energy and anticipation surrounding his upcoming movie, War 2, a sequel to the blockbuster hit. It's a visual celebration of peak physical condition and the thrilling action Hrithik Roshan embodies.</p>
+  <p>🔗
+</td>
+      <td width="50%" align="center"> <img src="https://github.com/user-attachments/assets/da2e1c55-bab7-40ce-9ad8-8bd95028882f">View Design</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
