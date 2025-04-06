@@ -114,6 +114,13 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
+### UI/UX
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE2bHBoZmhxeWRueWg5N3hsdjh0Z2Zma3o1cXJkMjhqdmIxMHplcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sFeri9abVFTLhNzn4D/giphy.gif" style="width: 100vw">
+<img src="https://media.giphy.com/media/sTdRdivmXb9El6uMzb/giphy.gif" style="width: 100vw">
+
+---
+
 ## 🛠️ Skills & Techniques  
 
 🎨 **Artistic Skills:** Painting, Drawing, Illustration, Photography  
