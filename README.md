@@ -57,6 +57,25 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
+### ϟ HRX | *Graphic Design*  
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td width="50%"> 
+        <p>🎨 <strong>Medium:</strong> Digital Design & Branding</p> 
+        <p>📌 <strong>Highlights:</strong> Futuristic UI aesthetics, geometric precision, and branding integration</p> 
+        <p>New York City's skyline hums with energy, much like the inspiration behind <b>CORE</b>—a conceptual branding piece for Con Edison. The circular motif reflects the seamless flow of electricity, while the neon cyber-inspired accents capture the city’s never-ending pulse. Every element was meticulously arranged to blend <b>tradition with innovation</b>, symbolizing 200 years of progress.</p> 
+<!--         <p>🔗 <a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/CORE">View Design</a></p>  -->
+        <p>🔗 <img src="https://github.com/user-attachments/assets/da2e1c55-bab7-40ce-9ad8-8bd95028882f">View Design</a></p> 
+      </td> 
+      <td width="50%" align="center"> <img src="https://github.com/user-attachments/assets/d4cb084d-97e8-4200-b82b-4d678725ad14" alt="CORE - Con Edison" width="250"> 
+      </td> 
+    </tr> 
+  </table> 
+</div>
+
+---
+
 ### 🏆 44th President | *1st Place out of 470+ Students*  
 <div align="center">
   <table>
