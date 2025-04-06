@@ -14,7 +14,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### 🌐︎ iMohammed | *Product Design & Graphic Design for My 2025 Website*  
+### iMohammed's Identity | *Product Design & Graphic Design for My 2025 Website*  
 
 <div align="center">  
   <table>  
@@ -26,7 +26,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
         Built on <b>strong geometric foundations</b>, it balances typography in a way that feels both seamless and intentional.  
         The monochrome palette reinforces <b>accessibility and high-contrast UI principles</b>, ensuring clarity across digital interfaces.  
         Every character, weight, and alignment was refined for a <b>modern, culturally immersive user experience</b>.</p>  
-        <p>🔗 <a href="https://github.com/tech-moh-logy/iMohammed">Explore the Full Project</a></p>
+        <p>🔗 <a href="https://github.com/tech-moh-logy/iMohammed">Explore: Initial Concepts</a></p>
         <i>"A sleek and well-executed personal branding piece that blends modern UI aesthetics with a strong professional identity."</i>
       </td>  
       <td width="50%" align="center">  
@@ -38,7 +38,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### ϟ CORE | *Con Edison - Product Design & Graphic Design*  
+### CORE | *Con Edison - Product Design & Graphic Design*  
 <div align="center"> 
   <table> 
     <tr> 
