@@ -74,8 +74,9 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 </div>
 
 ---
-
-### 🏆 44th President | *1st Place out of 470+ Students*  
+## 2x Top 3 Among 390+
+---
+### 44th President | *1st Place out of 410+ Students*  
 <div align="center">
   <table>
     <tr>
@@ -94,7 +95,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-### 🏁 Bugatti Chiron | *Top 3 out of 650+ Students*  
+### Bugatti Chiron | *Top 3 out of 390+ Students*  
 <div align="center">
   <table>
     <tr>
