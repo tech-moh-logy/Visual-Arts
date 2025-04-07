@@ -114,6 +114,9 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 # UI/UX or Product Design
+
+<img src="https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/6bf4697b-c454-4bc0-9fb9-bf66f6f36831" alt="MOHAMMED" width="100%">
+
 ---
 
 # 🎬 cineX – Experimental Cinema Platforms
