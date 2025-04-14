@@ -59,6 +59,8 @@ The upcoming version includes:
 
 > _Contact via LinkedIn or email to request source code access._
 
+<sub>[⬅ Back to Contents](#contents)</sub>
+
 ---
 
 ## Kings of B-Town
@@ -82,6 +84,8 @@ Both **Cinema Curry** and **Kings of B-Town** contribute to the evolution of **c
 - AI-driven user interaction with a design system grounded in accessibility and multilingual inclusivity.
 
 Stay tuned.
+
+<sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
@@ -114,6 +118,8 @@ Stay tuned.
   </table>  
 </div>  
 
+<sub>[⬅ Back to Contents](#contents)</sub>
+
 ### CORE | *Con Edison - Product Design & Graphic Design*  
 <div align="center"> 
   <table> 
@@ -131,6 +137,8 @@ Stay tuned.
   </table> 
 </div>
 
+<sub>[⬅ Back to Contents](#contents)</sub>
+
 ### ϟ HRX | *Graphic Design*  
 <div align="center">
   <table>
@@ -147,6 +155,8 @@ Stay tuned.
     </tr>
   </table>
 </div>
+
+<sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
@@ -174,6 +184,8 @@ Stay tuned.
   </table>
 </div>  
 
+<sub>[⬅ Back to Contents](#contents)</sub>
+
 ### Bugatti Chiron | *Top 3 out of 390+ Students*  
 <div align="center">
   <table>
@@ -190,6 +202,8 @@ Stay tuned.
     </tr>
   </table>
 </div>  
+
+<sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
