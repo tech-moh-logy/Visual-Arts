@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my **Design Portfolio**, where creativity meets technique. This repository showcases my artistic journey, including detailed projects, unique styles, and the thought process behind each piece. 
+Welcome to my **Design Portfolio**, where creativity meets strategy. This repository highlights my journey across **UI/UX, product design**, and **visual arts**—featuring in-depth projects, distinctive styles, and the thought process behind each piece. From intuitive user interfaces to expressive illustrations, every work here reflects a commitment to both form and function.
 
 > *Award-winning art and design (UI/UX and product design) projects, recognized for innovative techniques in creating depth, texture, and precision.*  
 
@@ -135,7 +135,7 @@ Stay tuned.
   </table>  
 </div>
 
-### CORE | *Con Edison - Product Design & Graphic Design*  
+### CORE | *Con Edison (Fortune 500) - Product Design & Graphic Design*  
 <div align="center"> 
   <table> 
     <tr> 
