@@ -86,7 +86,7 @@ Stay tuned.
 
 <div align="center">
   <h1>Mohammed's Graphic Art</h1>
-  <h3>Recognized by 5,000+ People</h3>
+  <h3>Recognized by 5,000+ People & More</h3>
 </div>
 
 ---
@@ -114,6 +114,26 @@ Stay tuned.
 </div>  
 
 <sub>[⬅ Back to Contents](#contents)</sub>
+
+### STOCK MARKET | *Luxury Branding Logo Design*  
+<div align="center">  
+  <table>  
+    <tr>  
+      <td width="50%">  
+        <p><strong>Medium:</strong> Digital Illustration & Logo Design</p>  
+        <p><strong>Highlights:</strong> Gold hues, luxury aesthetics, and rapid concept execution</p>  
+        <p>This logo served as the core visual identity for over <b>4 years</b>, recognized by <b>5,000+</b> users and selected over more than <b>10 competing designers</b>.  
+        Created in under <b>3 hours</b>, the design uses rich gold tones to evoke a sense of <b>luxury, trust, and timeless value</b>.  
+        The concept reflects the aspirational nature of the brand—its desire to live up to, be desired by, and be beloved by those who value status and sophistication.</p>  
+        <p><a href="https://github.com/tech-moh-logy/Visual-Arts/tree/main/STOCK-MARKET"><strong>View Design</strong></a></p>  
+      </td>  
+      <td width="50%" align="center">  
+        <!-- Will upload the image later, and replace the src below -->
+        <img src="https://github.com/user-attachments/assets/your-image-link-here" width="100%" alt="Stock Market Logo Preview" />  
+      </td>  
+    </tr>  
+  </table>  
+</div>
 
 ### CORE | *Con Edison - Product Design & Graphic Design*  
 <div align="center"> 
