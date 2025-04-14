@@ -10,7 +10,7 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-![image](https://github.com/user-attachments/assets/07430be0-2561-4d38-95ef-953b048f6a25)
+![image](https://github.com/user-attachments/assets/b60130c1-c795-463b-bc1b-a2a23a3c3218)
 
 ## Skills & Techniques  
 
@@ -22,10 +22,9 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 ## Contents
 1. [UI/UX or Product Design](#mohammeds-uiux-or-product-design)
 2. [Graphic Art](#mohammeds-graphic-art)
-3. [Visual Arts / Illustrations](#mohammeds-visual-arts--illustrations)
+3. [Visual Arts / Illustrations](#mohammeds-visual-artsillustrations)
 
 ---
-
 
 <div align="center">
   <h1>Mohammed's UI/UX or Product Design</h1>
@@ -35,15 +34,11 @@ Welcome to my **Design Portfolio**, where creativity meets technique. This repos
 
 ---
 
-## cineX – Experimental Cinema Platforms
-
-A collection of digital experiments at the intersection of South Asian cinema and design innovation.
-
----
-
 ## Cinema Curry (Beta Version → Now: cineX)
 
-[**Live Demo of Cinema Curry**](https://cinema-curry-mohammed.netlify.app)
+> _Note: **cineX** is essentially a refined version of Cinem Curry, featuring improved UIs and an integrated chatbot experience._
+
+[**Live Demo of Cinema Curry (Responsive Design)**](https://cinema-curry-mohammed.netlify.app)
 
 <img src="https://media.giphy.com/media/sTdRdivmXb9El6uMzb/giphy.gif" width="100%">
 
@@ -90,7 +85,7 @@ Stay tuned.
 ---
 
 <div align="center">
-  <h1>Mohammed's Grahic Art</h1>
+  <h1>Mohammed's Graphic Art</h1>
   <h3>Recognized by 5,000+ People</h3>
 </div>
 
